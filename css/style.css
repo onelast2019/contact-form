@@ -1,0 +1,67 @@
+
+/* start form */
+
+form .jq_err{
+    padding: 5px;
+    padding: 5px !important;
+    display: none;
+}
+h1{
+  margin-top:20px !important;
+  margin-bottom: 15px !important;
+  font-family: sans-serif;
+  color: white !important;
+}
+form{
+  max-width: 500px;
+  margin:1% auto;
+  position: relative;
+  }
+form .form-group{
+  margin-bottom: 0 !important;
+  position: relative;
+}
+form .form-group .astrisk{
+  position: absolute;
+  right:10px;
+  bottom: 5px;
+  color: #ec2828;
+}
+form input{
+  padding-left:29px !important;
+}
+form input,textarea{
+  margin-bottom: 10px !important;
+
+}
+textarea{
+  height:200px;
+}
+form i{
+  position: relative;
+  top: -36px;
+  left: 7px;
+  float: left;
+  height: 0;
+  color:#6c757d;
+
+}
+
+.fa-paper-plane{
+  color: white;
+  }
+  #submit{
+    width:145px;
+  }
+.group{
+  position: relative;
+}
+.group .astrisk{
+  color:red;
+  position: absolute;
+  top:5px;
+  right: 10px;
+}
+
+
+/*end form*/
